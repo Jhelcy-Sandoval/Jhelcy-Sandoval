@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Jhelcy Sandoval 👋
 
-<!--
-**Jhelcy-Sandoval/Jhelcy-Sandoval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Software Engineer | Integration Engineer | AI Automation Engineer
 
-Here are some ideas to get you started:
+I specialize in backend development, enterprise integrations, process automation, and AI-powered solutions using TypeScript and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Expertise
+
+- Backend Development
+- Enterprise Integrations
+- AI Automation
+- REST APIs
+- Process Automation
+
+## Tech Stack
+
+### Languages
+- TypeScript
+- JavaScript
+- Python
+
+### Backend
+- NestJS
+- Node.js
+- Express.js
+- Flask
+
+### Databases
+- PostgreSQL
+- MongoDB
+- MySQL
+
+### Integrations
+- HubSpot
+- Epicor
+- Shopify
+- WhatsApp
+- Webhooks
+
+### Frontend
+- React
+- Next.js
+- Angular
+- Tailwind CSS
+
+## Featured Projects
+
+### Project Management Platform
+Full stack platform for project, task and file management.
+
+### Plant Monitoring Dashboard
+Monitoring platform developed for the GemaLab Hackathon using Flask and Python.
+
+## Contact
+
+- LinkedIn: linkedin.com/in/jhelcy-sandoval
+- Portfolio: [tu portafolio]
