@@ -10,7 +10,7 @@ Building digital experiences where creativity, automation and technology meet.
 
 </div>
 
-<hr style="border: 1px solid #FFB7D5;">
+<div style="border: 1px solid #5D8BFF;, color:#5D8BFF"></div>
 
 ## ✦ About Me
 
@@ -37,7 +37,7 @@ Creative Coding
 Distributed Systems
 ```
 
----
+<div style="border: 1px solid #FFB7D5;, color:#FFB7D5"></div>
 
 ## ✦ Tech Stack
 
@@ -72,7 +72,7 @@ Distributed Systems
 ![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=for-the-badge&logo=githubactions)
 
----
+<div style="border: 1px solid #FFB7D5;, color:#FFB7D5"></div>
 
 ## ✦ Current Focus
 
@@ -91,7 +91,7 @@ building:
   - Creative Digital Experiences
 ```
 
----
+<div style="border: 1px solid #FFB7D5;, color:#FFB7D5"></div>
 
 ## ✦ Featured Projects
 
@@ -133,7 +133,7 @@ Flask
 Bootstrap
 ```
 
----
+<div style="border: 1px solid #FFB7D5;, color:#FFB7D5"></div>
 
 ## ✦ GitHub Stats
 
@@ -145,7 +145,7 @@ Bootstrap
 
 </p>
 
----
+<div style="border: 1px solid #FFB7D5;, color:#FFB7D5"></div>
 
 ## ✦ Connect
 
@@ -153,7 +153,7 @@ Bootstrap
 
 💼 LinkedIn: https://linkedin.com/in/jhelcy-sandoval
 
----
+<div style="border: 1px solid #FFB7D5;, color:#FFB7D5"></div>
 
 <div align="center">
 
