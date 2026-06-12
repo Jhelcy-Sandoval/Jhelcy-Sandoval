@@ -10,7 +10,7 @@ Building digital experiences where creativity, automation and technology meet.
 
 </div>
 
----
+<hr style="border: 1px solid #FFB7D5;">
 
 ## ✦ About Me
 
