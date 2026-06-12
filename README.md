@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner_github.png" alt="Jhelcy Labs Banner"/>
+<img src="./assets/banner_github_jhelcy.png" alt="Jhelcy Labs Banner"/>
 
 # ✦ Jhelcy Sandoval
 
