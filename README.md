@@ -1,57 +1,166 @@
-# Hi, I'm Jhelcy Sandoval 👋
+<div align="center">
 
-Backend Software Engineer | Integration Engineer | AI Automation Engineer
+<img src="./assets/banner_github.png" alt="Jhelcy Labs Banner"/>
 
-I specialize in backend development, enterprise integrations, process automation, and AI-powered solutions using TypeScript and Python.
+# ✦ Jhelcy Sandoval
 
-## Core Expertise
+### Software Engineer • System Designer • AI Automation Engineer
 
-- Backend Development
-- Enterprise Integrations
+Building digital experiences where creativity, automation and technology meet.
+
+</div>
+
+---
+
+## ✦ About Me
+
+I'm a Software Engineer focused on backend systems, integrations, automation, and scalable architectures.
+
+My work combines:
+
+- Backend Engineering
+- Software Architecture
 - AI Automation
-- REST APIs
-- Process Automation
+- Enterprise Integrations
+- Creative Technology
+- Digital Experiences
 
-## Tech Stack
+Currently exploring:
+
+```txt
+DDD
+Hexagonal Architecture
+CQRS
+Event Sourcing
+AI Agents
+Creative Coding
+Distributed Systems
+```
+
+---
+
+## ✦ Tech Stack
 
 ### Languages
-- TypeScript
-- JavaScript
-- Python
+
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 
 ### Backend
-- NestJS
-- Node.js
-- Express.js
-- Flask
 
-### Databases
-- PostgreSQL
-- MongoDB
-- MySQL
-
-### Integrations
-- HubSpot
-- Epicor
-- Shopify
-- WhatsApp
-- Webhooks
+![NestJS](https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![FastAPI](https://img.shields.io/badge/FastAPI-000?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask)
 
 ### Frontend
-- React
-- Next.js
-- Angular
-- Tailwind CSS
 
-## Featured Projects
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular)
 
-### Project Management Platform
-Full stack platform for project, task and file management.
+### Databases
 
-### Plant Monitoring Dashboard
-Monitoring platform developed for the GemaLab Hackathon using Flask and Python.
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
 
-## Contact
+### Cloud & DevOps
 
-- LinkedIn: linkedin.com/in/jhelcy-sandoval
-- Portfolio: [tu portafolio]
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=for-the-badge&logo=githubactions)
+
+---
+
+## ✦ Current Focus
+
+```yaml
+learning:
+  - Domain Driven Design
+  - Event Driven Architecture
+  - CQRS
+  - Event Sourcing
+  - System Design
+
+building:
+  - Jhelcy Labs
+  - AI Automation Systems
+  - Backend Platforms
+  - Creative Digital Experiences
+```
+
+---
+
+## ✦ Featured Projects
+
+### 🚀 Project Management Platform
+
+Enterprise platform for:
+
+- Project Management
+- Task Tracking
+- File Management
+- Team Collaboration
+
+Tech:
+
+```txt
+NestJS
+PostgreSQL
+React
+Docker
+```
+
+---
+
+### 🌱 Plant Monitoring Dashboard
+
+Hackathon project developed with GemaLab.
+
+Features:
+
+- Environmental Monitoring
+- Sensor Visualization
+- Data Analytics
+
+Tech:
+
+```txt
+Python
+Flask
+Bootstrap
+```
+
+---
+
+## ✦ GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhelcy-Sandoval&show_icons=true&theme=transparent"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhelcy-Sandoval&layout=compact&theme=transparent"/>
+
+</p>
+
+---
+
+## ✦ Connect
+
+🌐 Portfolio: https://jhelcylabs.com
+
+💼 LinkedIn: https://linkedin.com/in/jhelcy-sandoval
+
+📧 Contact: your@email.com
+
+---
+
+<div align="center">
+
+### ✦ Jhelcy Labs
+
+Building the internet I wish I grew up in.
+
+</div>
