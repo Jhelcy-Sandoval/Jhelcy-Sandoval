@@ -153,8 +153,6 @@ Bootstrap
 
 💼 LinkedIn: https://linkedin.com/in/jhelcy-sandoval
 
-📧 Contact: your@email.com
-
 ---
 
 <div align="center">
