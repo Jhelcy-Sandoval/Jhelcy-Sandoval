@@ -220,19 +220,18 @@ Bootstrap
 
 <div style="border: 1px solid #FFB7D5;, color:#FFB7D5"></div>
 
-<table>
+<table width="100%">
 <tr>
-<td width="90%">
+<td align="left">
 
 ## ✦ Connect
 
 </td>
 
-<td width="10%" align="right">
-
-<img src="./assets/angel_d.gif">
-
+<td align="right">
+<img src="./assets/angel_d.gif" >
 </td>
+
 </tr>
 </table>
 
