@@ -220,20 +220,8 @@ Bootstrap
 
 <div style="border: 1px solid #FFB7D5;, color:#FFB7D5"></div>
 
-<table width="100%">
-<tr>
-<td align="left">
+## ✦ Connect <img src="./assets/angel_d.gif" >
 
-## ✦ Connect
-
-</td>
-
-<td align="right">
-<img src="./assets/angel_d.gif" >
-</td>
-
-</tr>
-</table>
 
 🌐 Portfolio: https://jhelcylabs.com
 
