@@ -6,7 +6,7 @@
 
 # ✦ Jhelcy Sandoval 
 
-<img src='./assets/muñequito corriendo.gif' />
+<img src='./assets/muñequito corriendo.gif' width="200%"/>
 
 ### Software Engineer • System Designer • AI Automation Engineer
 
@@ -16,21 +16,7 @@ Building digital experiences where creativity, automation and technology meet.
 
 <div style="border: 1px solid #5D8BFF;, color:#5D8BFF"></div>
 
-<table width="100%">
-<tr>
-<td align="left">
-
-## ✦ About Me
-
-</td>
-
-<td align="right">
-<img src="./assets/angel_corazon.gif">
-</td>
-
-</tr>
-</table>
-
+## <img src="./assets/angel_corazon.gif" width="30"> About Me
 
 I'm a Software Engineer focused on backend systems, integrations, automation, and scalable architectures.
 
@@ -58,20 +44,7 @@ Distributed Systems
 <div style="border: 1px solid #FFB7D5;, color:#FFB7D5"></div>
 
 
-<table width="100%">
-<tr>
-<td align="left">
-
-## ✦ Tech Stack
-
-</td>
-
-<td align="right">
-<img src="./assets/angel_m.gif">
-</td>
-
-</tr>
-</table>
+## <img src="./assets/angel_m.gif" width="60"> Tech Stack
 
 ### Languages
 
@@ -106,20 +79,7 @@ Distributed Systems
 
 <div style="border: 1px solid #FFB7D5;, color:#FFB7D5"></div>
 
-<table width="100%">
-<tr>
-<td align="left">
-
-## ✦ Current Focus
-
-</td>
-
-<td align="right">
-<img src="./assets/angel_a.gif">
-</td>
-
-</tr>
-</table>
+## <img src="./assets/angel_a.gif" width="30"> Current Focus
 
 ```yaml
 learning:
@@ -138,21 +98,8 @@ building:
 
 <div style="border: 1px solid #FFB7D5;, color:#FFB7D5"></div>
 
+## <img src="./assets/angel_b.gif" width="35"> Featured Projects 
 
-<table width="100%">
-<tr>
-<td align="left">
-
-## ✦ Featured Projects
-
-</td>
-
-<td align="right">
-<img src="./assets/angel_b.gif">
-</td>
-
-</tr>
-</table>
 
 ### 🚀 Project Management Platform
 
@@ -195,20 +142,7 @@ Bootstrap
 <div style="border: 1px solid #FFB7D5;, color:#FFB7D5"></div>
 
 
-<table width="100%">
-<tr>
-<td align="left">
-
-## ✦ GitHub Stats
-
-</td>
-
-<td align="right">
-<img src="./assets/angel_c.gif" width="50">
-</td>
-
-</tr>
-</table>
+## <img src="./assets/angel_c.gif" width="35"> GitHub Stats
 
 <p align="center">
 
@@ -220,20 +154,8 @@ Bootstrap
 
 <div style="border: 1px solid #FFB7D5;, color:#FFB7D5"></div>
 
-<table width="100%">
-<tr>
-<td align="left">
 
-## ✦ Connect
-
-</td>
-
-<td align="right">
-<img src="./assets/angel_d.gif" >
-</td>
-
-</tr>
-</table>
+## <img src="./assets/angel_d.gif" width="50"> Connect 
 
 🌐 Portfolio: https://jhelcylabs.com
 
