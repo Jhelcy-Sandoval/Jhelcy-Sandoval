@@ -145,11 +145,7 @@ Bootstrap
 ## <img src="./assets/angel_c.gif" width="35"> GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jhelcy-Sandoval&show_icons=true&theme=transparent"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhelcy-Sandoval&layout=compact&theme=transparent"/>
-
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,nestjs,python,flask,mongodb,postgres,docker,git,github,vscode,figma&perline=8"/>
 </p>
 
 <div style="border: 1px solid #FFB7D5;, color:#FFB7D5"></div>
